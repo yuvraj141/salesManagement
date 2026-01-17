@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\pharmacy_final_project\\Projects-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\add.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\Staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\SignupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy Management System\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Staff.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\Staff.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Staff.cs",
+              "RelativeToolTip": "Pharmacy Management System\\Staff.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:20:52.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignupForm.Designer.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\SignupForm.Designer.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.Designer.cs",
+              "RelativeToolTip": "Pharmacy Management System\\SignupForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:20:47.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\SignupForm.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\SignupForm.cs",
+              "RelativeToolTip": "Pharmacy Management System\\SignupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:20:45.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add.Designer.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\add.Designer.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.Designer.cs",
+              "RelativeToolTip": "Pharmacy Management System\\add.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:19:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "add.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\add.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\add.cs",
+              "RelativeToolTip": "Pharmacy Management System\\add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:19:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\Dashboard.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.cs",
+              "RelativeToolTip": "Pharmacy Management System\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:17:48.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\Dashboard.Designer.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Pharmacy Management System\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:17:44.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\db.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\db.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\db.cs",
+              "RelativeToolTip": "Pharmacy Management System\\db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:06:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\Program.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\Program.cs",
+              "RelativeToolTip": "Pharmacy Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:01:32.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\LoginForm.Designer.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Pharmacy Management System\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:01:09.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Pharmacy Management System\\LoginForm.cs",
+              "ToolTip": "F:\\pharmacy_final_project\\Projects-main\\Pharmacy Management System\\LoginForm.cs",
+              "RelativeToolTip": "Pharmacy Management System\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:00:57.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
